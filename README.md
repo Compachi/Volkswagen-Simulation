@@ -3,9 +3,9 @@ In 2015, it was found that Volkswagen had been cheating on their emissions tests
 
 Daemon 41
 ---------
-Ben H.
-Dan W.
-Kyle L.
-Apollo B.
-Alan B.
-Tim H.
+Ben H.,
+Dan W.,
+Kyle L.,
+Apollo B.,
+Alan B.,
+Tim H.,
